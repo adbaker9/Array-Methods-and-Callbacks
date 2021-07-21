@@ -59,8 +59,9 @@ Use the higher-order function getWinners to do the following:
 4. Returns the names of all winning countries in an array called `winners` */ 
 
 function getWinners(fifaData, getfinals.map) {
-    return `$`
+    return `${.mapfifaData} plus `
 }
+return  winners
 
 
 
